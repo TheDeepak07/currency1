@@ -1,0 +1,29 @@
+body{
+    font-size: 30px;
+    font-style: Arial;
+    color:black;
+   margin-left:450px;
+   margin-top: 100px;
+   background-color: #C84C09;  
+}
+img{
+    height:max-content;
+    width:max-content;
+}
+button{
+    width:90px;
+    height:40px;
+    border-radius: 20px;
+    background-color:#2B7EA1 ;
+    color: white;
+}
+#dtrinput{
+    width:150px;
+    height:40px;
+    border-radius: 7%;
+}
+#rupinput{
+    width:150px;
+    height:40px;
+    border-radius: 7%;
+}
